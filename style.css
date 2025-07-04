@@ -1,0 +1,36 @@
+* {
+  background-color: rgb(235, 226, 247);
+}
+
+.head {
+  margin-bottom: 0px;
+  padding: 0px;
+  border: 0px;
+}
+.head {
+  align-items: center;
+  text-align: center;
+  color: rgb(9, 124, 231);
+}
+.form {
+  color: rgb(199, 78, 22);
+}
+
+.fe {
+  padding: 2px;
+  margin: 3px 3px 3px;
+  border-radius: 5px;
+  border-color: rgb(219, 44, 13);
+  border-width: 2px;
+}
+.form {
+  margin-left: 2px;
+  align-items: end;
+  direction: ;
+}
+.pa {
+  color: rgb(182, 56, 207);
+  text-align: justify;
+  font-family: "Times New Roman", Times, serif;
+  font-size: larger;
+}
