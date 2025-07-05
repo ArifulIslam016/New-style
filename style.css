@@ -4,13 +4,15 @@
 
 .head {
   margin-bottom: 0px;
-  padding: 0px;
+  margin-top: 0px;
+ 
   border: 0px;
 }
 .head {
   align-items: center;
   text-align: center;
   color: rgb(9, 124, 231);
+  
 }
 .form {
   color: rgb(199, 78, 22);
@@ -33,4 +35,11 @@
   text-align: justify;
   font-family: "Times New Roman", Times, serif;
   font-size: larger;
+}
+#submit{
+  border-radius: 5px;
+ color: rgb(105, 105, 238);
+ background-color: rgb(197, 197, 184);
+ border-color: rgb(238, 230, 221);
+
 }
